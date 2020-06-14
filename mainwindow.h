@@ -2,10 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include<QPainter>
-#include<QPixmap>
-#include<QPaintEvent>
-#include<QPushButton>
+#include<youxi.h>
 namespace Ui {
 class MainWindow;
 }
@@ -16,11 +13,12 @@ class MainWindow : public QMainWindow
 
 public:
     explicit MainWindow(QWidget *parent = 0);
-   ~MainWindow();
+    ~MainWindow();
 
-    void paintEvent(QPaintEvent*);
+    void paintEvent(QPaintEvent*);//开始界面
 private:
     Ui::MainWindow *ui;
+
 };
 
 #endif // MAINWINDOW_H
