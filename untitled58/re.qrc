@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/beijing.mp3</file>
+        <file>config/map1/Points1.plist</file>
+        <file>config/map1/Points2.plist</file>
+        <file>config/map1/Points3.plist</file>
+        <file>config/map1/Points4.plist</file>
+        <file>config/map1/TowersPosition.plist</file>
+        <file>config/map1/Waves.plist</file>
+        <file>config/Info.plist</file>
+        <file>config/Points.plist</file>
+        <file>image/quit.png</file>
+        <file>image/tawei.png</file>
+        <file>image/Bg1.png</file>
+        <file>image/enter0.png</file>
+        <file>image/bullet a.png</file>
+        <file>image/bullet b.png</file>
+        <file>image/bullet c.png</file>
+        <file>image/chai.png</file>
+        <file>image/fa.png</file>
+        <file>image/jian.png</file>
+        <file>image/pao.png</file>
+        <file>image/tower a1.png</file>
+        <file>image/tower a2.png</file>
+        <file>image/tower b1.png</file>
+        <file>image/tower b2.png</file>
+        <file>image/tower c1.png</file>
+        <file>image/tower c2.png</file>
+        <file>image/enemy_1.png</file>
+        <file>image/enemy_2.png</file>
+        <file>image/enemy_boss.png</file>
+        <file>image/sheng.png</file>
+        <file>config/map2/Points.plist</file>
+        <file>config/map2/Points1.plist</file>
+        <file>config/map2/Points2.plist</file>
+        <file>config/map2/Points3.plist</file>
+        <file>config/map2/Points4.plist</file>
+        <file>config/map2/TowersPosition.plist</file>
+        <file>config/map2/Waves.plist</file>
+        <file>image/Bg2.png</file>
+        <file>image/enemy_4.png</file>
+        <file>image/enemy_5.png</file>
+        <file>image/enemy_3.png</file>
+    </qresource>
+</RCC>
